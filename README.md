@@ -1,6 +1,6 @@
 # Bullet-Point Generator
 
-This personal AI project contains a simple text summarization application using Streamlit and Seq2Seq model utilizing Hugging Face Transformers. Once ran, the Streamlit app should be able to generate bullet points from given text, PDF's, and video. 
+A personal AI project containing simple text summarization application using Streamlit and Seq2Seq HuggingFace transformer. Once ran, the Streamlit app should be able to generate bullet points from given text, PDF's, and video. 
 
 ## Usage
 

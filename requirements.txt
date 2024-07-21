@@ -1,0 +1,2 @@
+# requirements.txt
+Must have streamlit and transformers imported
